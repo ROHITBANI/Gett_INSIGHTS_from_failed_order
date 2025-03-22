@@ -4,7 +4,7 @@ At the moment, when the client clicks the Order button in the application, the m
 In this task, we would like to investigate some matching metrics for orders that did not completed successfully, i.e., the customer didn't end up getting a car.
 
 ## Data Description
-### We have two data sets:  ** data_orders and data_offers** , both being stored in a CSV format. The data_orders data set contains the following columns:
+### We have two data sets:  **data_orders and data_offers** , both being stored in a CSV format. The data_orders data set contains the following columns:
 order_datetime - time of the order  
 origin_longitude - longitude of the order  
 origin_latitude - latitude of the order  
