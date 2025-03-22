@@ -5,7 +5,6 @@ In this task, we would like to investigate some matching metrics for orders that
 
 ## Data Description
 We have two data sets:  data_orders and data_offers , both being stored in a CSV format. The data_orders data set contains the following columns:
-
 order_datetime - time of the order
 origin_longitude - longitude of the order
 origin_latitude - latitude of the order
